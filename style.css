@@ -76,3 +76,9 @@ h1 {
 .hide {
   display: none;
 }
+@media and screen(min-width:468px) and (max-width:768px)
+{
+  h1{
+    font-size:30px;
+  }
+}
